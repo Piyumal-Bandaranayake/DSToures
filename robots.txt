@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Disallowed Directories
+Disallow: /admin/
+Disallow: /config/
+Disallow: /includes/
+Disallow: /data/
+Disallow: /db.php
+Disallow: /schema.sql
+
+# Sitemap URL
+Sitemap: https://dileepsanjayatours.com/sitemap.xml
